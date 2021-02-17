@@ -8,8 +8,8 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Dumbarton 
-email: 
+title: Xingyu Sonya Zhu
+email: sonya.zhu.90@gmail.com
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
 url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,17 +20,17 @@ image_alt: A minimalistic jekyll theme for academic    # image description
 # -----------SITE SETTINGS---------------#
 #========================================#: 
 author: John Doe 
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
+profile_image: /assets/img/avatar/xingyu-crop.png #/assets/img/avatar/avatar.jpg 
 occupation: 
 snippet: 
-twitter: tbutler0x90
-github: tcbutler320
-linkedin: tyler-b-a700a1aa
-stackoverflow: 12935605
+twitter: ZhuSonya
+# github: tcbutler320
+# linkedin: tyler-b-a700a1aa
+# stackoverflow: 12935605
 website: https://tbutler.org
 codepen: tcbutler320
 medium: tbutler0x90
-email: developer.tbutler@gmail.com
+email: sonya.zhu.90@gmail.com
 keybase: tbutler320
 pgp: 
 ctftime: 
@@ -39,7 +39,7 @@ phonenumber:
 #========================================#
 # --------- UI THEMES -------------------#
 #========================================#
-ui_theme: abyss                                 # Create your own theme by setting options in _data/themes.yml
+ui_theme: abyss                          # Create your own theme by setting options in _data/themes.yml
 
 
 # =======================================#
